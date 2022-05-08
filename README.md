@@ -18,4 +18,5 @@ Lakhan Yadav:- Lakhan responsibilities were focused on building the Login and Si
 Sanjay Khushwaha:- Sanjay responsibilities were focused on to the Cart section and adding functionality to Cart page using JavaScript.
 
 Satyam Kumar Jha:- Satyam responsibilities were focused on building the Home page and  Payment page.Satyam worked on replicating the same design of the Home page using Javascript
+
 Mahesh Raut:- Mahesh responsibilities were focused on Women page, and adding functionality on bag page. Added the sorting functionality using HTML, CSS & JavaScript.
